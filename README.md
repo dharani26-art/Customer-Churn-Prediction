@@ -1,5 +1,9 @@
 # Customer Churn Prediction Project
 
+## Live demo
+
+Streamlit App: https://dharani26-art-customer-churn-prediction-app-eqjeqm.streamlit.app/
+
 ### Project Overview
 
 This project predicts whether a telecom customer will churn (leave the service) or stay using Machine Learning.
